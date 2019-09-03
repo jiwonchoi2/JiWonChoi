@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, I'm Ji Won CHoi. Welcome to GitHub Pages!
 
 You can use the [editor on GitHub](https://github.com/jiwonchoi2/JiWonChoi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,21 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+My name is Ji Won Choi, and I'm a senior at Stony Brook University studying Computer Science. I am passionate about designing Websites and UI. 
 
-# Header 1
-## Header 2
-### Header 3
+When I'm not doing programming you can find me listening to music, traveling, or hanging out with my friends.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
