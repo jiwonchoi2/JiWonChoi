@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/jiwonchoi2/JiWonChoi/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![image](jw_ny.png)
+<img src= "jw_ny.png" width = "20%">
 
 ### Markdown
 
