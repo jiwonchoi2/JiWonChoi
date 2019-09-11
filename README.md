@@ -1,7 +1,7 @@
 ## Hi, I'm Ji Won Choi. Welcome to GitHub Pages!
-
-<img src= "jw_ny.jpg" width = "20%">     My name is Ji Won Choi, and I'm a senior at Stony Brook University studying Computer Science. I am passionate about designing Websites and UI. 
+ My name is Ji Won Choi, and I'm a senior at Stony Brook University studying Computer Science. I am passionate about designing Websites and UI. <img src= "jw_ny.jpg" width = "40%">   
 When I'm not doing programming you can find me listening to music, traveling, or hanging out with my friends.
+
 
 ### If you want to see more details about me, [Click](https://jiwonchoi2.github.io/JiWonChoi/temp/)!!!!!!!
 
