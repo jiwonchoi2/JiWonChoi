@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/jiwonchoi2/JiWonChoi/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src= "jw_ny.jpg" width = "20%">
+<img src= "jw_ny.jpg" width = "20%">           hello nice to meet you all!!
+                                               great to meet you
 
 ### Markdown
 
@@ -27,5 +28,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Phone: (631)-710-8757
 Email: jiwon.choi.2@stonybrook.edu
-Linkedin: https://jiwonchoi2.github.io/JiWonChoi/
-
+Github: https://jiwonchoi2.github.io/JiWonChoi/
+Personal Webpages: https://jiwonchoi2.github.io/JiWonChoi/temp/
