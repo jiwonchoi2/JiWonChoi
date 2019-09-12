@@ -11,3 +11,5 @@ Phone: (631)-710-875*
 Email: jiwon.choi.2@stonybrook.edu                                                                                                          
 Github: https://jiwonchoi2.github.io/JiWonChoi/                                                                                            
 Personal Webpages: https://jiwonchoi2.github.io/JiWonChoi/temp/
+
+Linkedin: www.linkedin.com/in/ji-won-choi-070549193
